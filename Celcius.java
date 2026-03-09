@@ -6,7 +6,7 @@ public class Celcius {
         double c;
         double f;
 
-        System.out.printf("Digite a temp em Celcius:");
+        System.out.println("Digite a temp em Celcius:");
         c = input.nextInt();
 
         f = (c * 9/5) + 32;
