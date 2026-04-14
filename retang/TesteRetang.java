@@ -10,4 +10,3 @@ public class TesteRetang {
             r2.imprimirInfo();
         }
     }
-
