@@ -14,7 +14,10 @@ public class Retang {
     public Retang(double base, double altura) {
         this.base = base;
         this.altura = altura;
+        System.out.println();
     }
+
+
 
     public double getBase() {
         return base;
